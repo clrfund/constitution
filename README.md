@@ -1,7 +1,7 @@
 # CLR.FUND CONSTITUTION
 
 ## I. Introduction
-Clr.fund is a protocol for efficiently allocating funds to public goods that benefit the Ethereum Network according to the preferences of the Ethereum Community. Clr.fund strives for credible neutrality, decentralization, permissionlessness, trustlessness, and pseudonymity.
+Clr.fund is a protocol for efficiently allocating funds to public goods that benefit the Ethereum Ecosystem according to the preferences of the Ethereum Ecosystem. Clr.fund strives for credible neutrality, decentralization, permissionlessness, trustlessness, and pseudonymity.
 
 This document outlines clr.fund’s purpose, the properties it must have in order to fully achieve that purpose, and the principles guiding its development.
 
