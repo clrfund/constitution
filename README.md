@@ -9,7 +9,7 @@ The goal of the instance of clr.fund described in this document is the allocatio
 
 ## II. Key Definitions
 ### A. Public Goods <a name="public-goods"> </a>
-Public goods are commodities or services that are neither [excludable](#Excludable) nor [subtractable](#Rival-/-Subtractable).
+Public goods are commodities or services that are neither [excludable](#Excludable) nor [subtractable](#rival-subtractable).
 
 Fully non-excludable and non-subtractable goods are public goods. Additionally, because a good can be partially excludable or partially subtractable, goods that are relatively low on the excludability continuum and the subtractability continuum are also public goods.
 
@@ -68,7 +68,7 @@ The protocol must be able to attribute all of the actions taken by a given indiv
 ##### Excludable
 A good is considered excludable if it is possible to prevent non-paying people from using it, and non-excludable if it is not possible to do so. Goods exist on a continuum from fully excludable to fully non-excludable.
 
-##### Rival / Subtractable
+##### Rival / Subtractable <a name="rival-subtractable"></a>
 A good is considered rival (or subtractable) if its consumption or use by one party reduces (subtracts from) the ability of another party to do so, and non-rival (non-subtractable) if it can be provided to an additional party without cost. Goods exist on a continuum from fully rival to fully non-rival.
 
 ##### Private good
